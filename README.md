@@ -1,2 +1,2 @@
 # LucyAPP
-This is Lucy app
+Creating an app using streamlit pyhon library 
